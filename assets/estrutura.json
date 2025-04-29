@@ -1,0 +1,76 @@
+{
+    "categorias": [
+      {
+        "id": "roteiro",
+        "titulo": "Roteiro",
+        "descricao": "Para criar seu roteiro personalizado.",
+        "imagem": "./imgs_diw/roteiro.jpg",
+        "link": "./detalhes.html"
+      },
+      {
+        "id": "gastronomia",
+        "titulo": "Gastronomia",
+        "descricao": "Para dicas de restaurantes.",
+        "imagem": "./imgs_diw/gastronomia.jpg",
+        "link": "./detalhes.html"
+      },
+      {
+        "id": "hospedagem",
+        "titulo": "Hospedagem",
+        "descricao": "Para encontrar as melhores hospedagens.",
+        "imagem": "./imgs_diw/hospedagem.jpg",
+        "link": "./detalhes.html"
+      }
+    ],
+    "continentes": [
+      {
+        "id": "norte",
+        "nome": "América do Norte",
+        "imagem": "./imgs_diw/america.jpg",
+        "descricao": "O turismo na América do Norte é muito forte e atrai visitantes de todo o mundo..."
+      },
+      {
+        "id": "central",
+        "nome": "América Central",
+        "imagem": "./imgs_diw/central.jpg",
+        "descricao": "O turismo na América Central é uma importante fonte de renda..."
+      },
+      {
+        "id": "sul",
+        "nome": "América do Sul",
+        "imagem": "./imgs_diw/sul.jpg",
+        "descricao": "A América do Sul é um destino turístico com diversas atrações..."
+      },
+      {
+        "id": "africa",
+        "nome": "África",
+        "imagem": "./imgs_diw/africa.jpg",
+        "descricao": "O turismo na África convida a desvendar os segredos de terras milenares..."
+      },
+      {
+        "id": "asia",
+        "nome": "Ásia",
+        "imagem": "./imgs_diw/asia.jpg",
+        "descricao": "O turismo na Ásia é um setor em expansão..."
+      },
+      {
+        "id": "antartida",
+        "nome": "Antártida",
+        "imagem": "./imgs_diw/antardida.jpg",
+        "descricao": "O turismo na Antártida é uma atividade que atrai aventureiros..."
+      },
+      {
+        "id": "europa",
+        "nome": "Europa",
+        "imagem": "./imgs_diw/Tour Eiffel ✨.jpg",
+        "descricao": "O continente oferece uma grande variedade de destinos..."
+      },
+      {
+        "id": "oceania",
+        "nome": "Oceania",
+        "imagem": "./imgs_diw/oceania.jpg",
+        "descricao": "O turismo na Oceania é baseado no ecoturismo e belezas naturais..."
+      }
+    ]
+  }
+  
